@@ -1,0 +1,14 @@
+Shortest Path Problem (SPP): Find shortest path between two nodes. --> Polynomial
+
+Bipartite Matching Problem (BMP二分图): Find the pairing with minimum cost. --> Polynomial
+
+Minimum Spanning Tree (MST最小生成树): Find the spanning tree of minimum weight. -->Polynomial
+
+knapsack/Bin Packing problem (背包问题): Choose items to give the maximum value within a given capacity. --> Easy NP(between polynomial and NP hard)
+
+Jobshop Scheduling: Schedule jobs on machines to minimize total time. 
+
+Travelling Salesman Problem (TSP): find the tour of minimum cost that visits all cities. --> NP Hard
+
+Vehicle Routing problem (VRP): Given a set of customers, and a fleet of vehicles to make deliveries, find a set of toutes that servies all customers at minimum cost. --> NP Hard
+
